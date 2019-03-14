@@ -7,7 +7,8 @@ inetman28 microservices repository
 - сетью в docker
 - импользовать docker-compose
 
-Чтобы убрать префикс 'src_' из названия контейнеров - мне пришлось переименовать директорию из 'src' в 'dockermicroservices'
+Чтобы убрать префикс 'src_' из названия контейнеров - мне пришлось в docker-compose.yml добавить
+переменную окружения 'COMPOSE_PROJECT_NAME=dockermicroservices'
 
 # docker-3 
 
