@@ -1,6 +1,15 @@
 # inetman28_microservices
 inetman28 microservices repository
 
+# docker-4
+
+В этой лабораторной работе я научился управлять:
+- сетью в docker
+- импользовать docker-compose
+
+Чтобы убрать префикс 'src_' из названия контейнеров - мне пришлось в docker-compose.yml добавить
+переменную окружения 'COMPOSE_PROJECT_NAME=dockermicroservices'
+
 # docker-3 
 
 Запустил три (4) контейнера:
