@@ -1,6 +1,13 @@
 # inetman28_microservices
 inetman28 microservices repository
 
+# gitlab-ci-1
+
+В этой лабораторной работе:
+- поставил Gitlab CI в Docker
+- сделал свой первый pipeline, который является CI/CD
+pipeline, и когда-нибудь в следующих лабах сможет задеплоить приложение :) 
+
 # docker-4
 
 В этой лабораторной работе я научился управлять:
