@@ -1,6 +1,16 @@
 # inetman28_microservices
 inetman28 microservices repository
 
+# monitoring-1
+
+Репы образов на DockerHub:
+https://cloud.docker.com/u/inetman28/repository/docker/inetman28/prometheus
+https://cloud.docker.com/u/inetman28/repository/docker/inetman28/post
+https://cloud.docker.com/u/inetman28/repository/docker/inetman28/comment
+https://cloud.docker.com/u/inetman28/repository/docker/inetman28/ui
+
+В этой лабораторной работе я развернул систему мониторинга prometheus и смог замониторить свое приложение базовыми метриками.
+
 # gitlab-ci-1
 
 В этой лабораторной работе:
