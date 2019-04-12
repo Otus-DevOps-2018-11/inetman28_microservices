@@ -1,6 +1,20 @@
 # inetman28_microservices
 inetman28 microservices repository
 
+# Monitoring-2
+
+https://cloud.docker.com/u/inetman28/repository/docker/inetman28/alertmanager
+https://cloud.docker.com/u/inetman28/repository/docker/inetman28/prometheus
+https://cloud.docker.com/u/inetman28/repository/docker/inetman28/post
+https://cloud.docker.com/u/inetman28/repository/docker/inetman28/comment
+https://cloud.docker.com/u/inetman28/repository/docker/inetman28/ui
+
+В этой лабораторной работе я развернул мониторинг для моих микросервисом :), а именно:
+- grafana
+- alertmanager
+
+Замониторил микросервисы, а также настроил алертинг с интеграцией в Slack. 
+
 # monitoring-1
 
 Репы образов на DockerHub:
