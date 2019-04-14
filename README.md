@@ -1,6 +1,10 @@
 # inetman28_microservices
 inetman28 microservices repository
 
+# Logging-1
+
+В этой лабораторной работе я настроил EFK для мониторинга приложения reddit. 
+
 # Monitoring-2
 
 https://cloud.docker.com/u/inetman28/repository/docker/inetman28/alertmanager
