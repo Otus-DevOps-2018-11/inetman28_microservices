@@ -1,6 +1,10 @@
 # inetman28_microservices
 inetman28 microservices repository
 
+# kubernetes-1
+
+В этой лабораторной работе я прошел курс kubernetes the hard way и задеплоил туда reddit приложение для теста. 
+
 # Logging-1
 
 В этой лабораторной работе я настроил EFK для мониторинга приложения reddit. 
