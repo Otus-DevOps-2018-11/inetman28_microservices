@@ -1,6 +1,11 @@
 # inetman28_microservices
 inetman28 microservices repository
 
+# kubernetes-2
+
+- Был развернуто приложение reddit на локальном k8s кластере созданного с помощью minikube
+- Были созданы воркеры k8s в GKE и задеплоено на него приложение
+
 # kubernetes-1
 
 В этой лабораторной работе я прошел курс kubernetes the hard way и задеплоил туда reddit приложение для теста. 
